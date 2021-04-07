@@ -57,39 +57,39 @@ function main() {
     doc.info = null;
 
     var icons = [
-        {"name": "icon_1024", "size":1024},
-        {"name": "icon_512", "size":512},
+        {"name": "Icon-App-1024x1024@1x", "size":1024},
+        // {"name": "Icon-App-512x512", "size":512},
 
-        {"name": "icon_29", "size":29},
-        {"name": "icon_29@2x", "size":58},
-        {"name": "icon_29@3x", "size":87},
+        {"name": "Icon-App-29x29@1x", "size":29},
+        {"name": "Icon-App-29x29@2x", "size":58},
+        {"name": "Icon-App-29x29@3x", "size":87},
 
-        {"name": "icon_20", "size":20},
-        {"name": "icon_20@2x", "size":40},
-        {"name": "icon_20@3x", "size":60},
+        {"name": "Icon-App-20x20@1x", "size":20},
+        {"name": "Icon-App-20x20@2x", "size":40},
+        {"name": "Icon-App-20x20@3x", "size":60},
 
-        {"name": "icon_40", "size":40},
-        {"name": "icon_40@2x", "size":80},
-        {"name": "icon_40@3x", "size":120},
+        {"name": "Icon-App-40x40@1x", "size":40},
+        {"name": "Icon-App-40x40@2x", "size":80},
+        {"name": "Icon-App-40x40@3x", "size":120},
 
-        {"name": "icon_50", "size":50},
-        {"name": "icon_50@2x", "size":100},
+        // {"name": "Icon-App-50x50", "size":50},
+        // {"name": "Icon-App-50x50@2x", "size":100},
 
-        {"name": "icon_57", "size":57},
-        {"name": "icon_57@2x", "size":114},
+        // {"name": "Icon-App-57x57", "size":57},
+        // {"name": "Icon-App-57x57@2x", "size":114},
 
-        {"name": "icon_60@2x", "size":120},
-        {"name": "icon_60@3x", "size":180},
+        {"name": "Icon-App-60x60@2x", "size":120},
+        {"name": "Icon-App-60x60@3x", "size":180},
 
-        {"name": "icon_72", "size":72},
-        {"name": "icon_72@2x", "size":144},
+        // {"name": "Icon-App-72x72", "size":72},
+        // {"name": "Icon-App-72x72@2x", "size":144},
 
-        {"name": "icon_76", "size":76},
-        {"name": "icon_76@2x", "size":152},
+        {"name": "Icon-App-76x76@1x", "size":76},
+        {"name": "Icon-App-76x76@2x", "size":152},
 
-        {"name": "icon_120", "size":120},
+        // {"name": "Icon-App-120x120", "size":120},
 
-        {"name": "icon_83.5@2x", "size":167},
+        {"name": "Icon-App-83.5x83.5@2x", "size":167},
     ];
 
     var initialState = doc.activeHistoryState;
